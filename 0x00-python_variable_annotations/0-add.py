@@ -1,3 +1,3 @@
-def add(a,b){
-        return float(a + b)
-        }
+def add(a: float,b: float):
+        return a + b
+        
